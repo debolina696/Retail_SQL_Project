@@ -95,6 +95,12 @@ Primary Keys and Foreign Keys are implemented to ensure **data integrity**.
 - GitHub for version control  
 
 ---
+## 📁 Project Structure
+- Sql schema
+-  sql database
+-  sql business queries
+-  sql Analytical Queries Solving
+  
 
 ## 👤 Author
 **Debulina Sorkhel**  
@@ -103,3 +109,8 @@ Aspiring Data Analyst | SQL | Data Analytics
 ---
 
 ## 📁 Project Structure
+- Sql schema
+-  sql database
+-  sql business queries
+-  sql Analytical Queries Solving
+  
